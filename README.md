@@ -16,5 +16,3 @@ Enter your API key in the .env file in the placeholder provided
 For runing the code From your terminal type:
 streamlit run ChatPDF.py
 
-## Access it on 👇
-**https://pdf-03biszvax044.streamlit.app/**
